@@ -1,0 +1,54 @@
+body {
+    background-color: aliceblue;
+}
+.font1 {
+    font-size:40px;
+}
+.lead {
+    font-size: 20px;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+    
+}
+.feature-icon {
+    align-items: left;
+    background-color: black ;
+    .bg-gradient {
+    background-image: var(--bs-gradient) !important;
+}
+}
+
+.feature {
+    display:flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    border:aliceblue solid;
+    justify-content: flex-start;
+}
+.lefttext {
+    text-align: left;
+}
+.fs-2 {
+    text-align: left;
+}
+.arrow {
+    color: white;
+    background-color: aliceblue;
+}
+#featured-3 {
+    background-color:aliceblue;
+}
+.row {
+    background-color: aliceblue;
+}
+
+
+.unknown {
+    background-color:aliceblue;
+}
+.boxnav {
+    background-color: aliceblue;
+}
